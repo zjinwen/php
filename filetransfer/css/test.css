@@ -1,0 +1,52 @@
+#lrs_test_all{
+    float: left;
+    width: 100%;
+}
+#lrs_test_all .item{
+    float: left;
+    width: 100px;
+    background-color: #b9def0;
+    margin: 5px;
+    border-radius:5px;
+    /* display: flex;
+     justify-content:center;
+     align-items:Center;
+     flex-direction: column;*/
+    border:5px solid #b9def0;
+}
+#lrs_test_all .item.lrs_group{
+    border:5px solid red;
+}
+#lrs_test_all .item  .inputLrs button[type="button"]:disabled{
+    background-color: #dddddd;
+}
+#lrs_test_all .item  .inputLrs{
+    width: 100px;
+    float: left;
+}
+
+
+#lrs_test_all .item  .inputLrs textarea{
+    width: 80px;
+    float: left;
+}
+#lrs_test_all .item .ps{
+    float: left;
+    width: 100px;
+    background-color: #4dabf0;
+}
+#lrs_test_all .item .u{
+    float: left;
+    width: 100px;
+}
+#lrs_test_all .item .ps .lrs_player{
+    float: left;
+    width: 40px;
+    margin: 5px;
+    background-color: #807df0;
+    cursor: pointer;
+    border-radius:2px;
+}
+.ps .selU{
+    background-color: #7CA821 !important;
+}

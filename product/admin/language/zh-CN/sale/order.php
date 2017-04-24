@@ -1,0 +1,123 @@
+<?php
+// Heading
+$_['heading_title']           = '订单';
+
+// Text
+$_['text_success']            = '成功：您已修改订单!';
+$_['text_order_id']           = '订单ID:';
+$_['text_invoice_no']         = '发票号码:';
+$_['text_invoice_date']       = '发票日期:';
+$_['text_store_name']         = '商店名称:';
+$_['text_store_url']          = '商店网址:';
+$_['text_customer']           = '顾客:';
+$_['text_customer_group']     = '客户群:';
+$_['text_email']              = '电子邮件:';
+$_['text_ip']                 = 'IP地址:';
+$_['text_telephone']          = '电话:';
+$_['text_fax']                = '传真:';
+$_['text_shipping_method']    = '送货方式:';
+$_['text_payment_method']     = '付款方式:';
+$_['text_total']              = '总计:';
+$_['text_reward']             = '奖励积分:';
+$_['text_order_status']       = '订单状态:';
+$_['text_comment']            = '评论:';
+$_['text_affiliate']          = '加盟:';
+$_['text_commission']         = '委托书:';
+$_['text_date_added']         = '添加日期:';
+$_['text_date_modified']      = '修改日期:';
+$_['text_firstname']          = '名字:';
+$_['text_lastname']           = '姓氏:';
+$_['text_company']            = '公司:';
+$_['text_address_1']          = '地址 1:';
+$_['text_address_2']          = '地址 2:';
+$_['text_postcode']           = '邮编:';
+$_['text_city']               = '城市:';
+$_['text_zone']               = '地区/国家:';
+$_['text_zone_code']          = '地区/国家代码:';
+$_['text_country']            = '国家:';
+$_['text_download']           = '订单下载次数';
+$_['text_invoice']            = '发票';
+$_['text_to']                 = '至';
+$_['text_ship_to']            = '运送到(如有不同地址)';
+$_['text_abandoned_orders']   = '废弃的订单';
+$_['text_default']            = '默认';
+$_['text_wait']               = '请稍候!';
+$_['text_create_invoice_no']  = '创建发票号码';
+$_['text_reward_add']         = '新增积分';
+$_['text_reward_added']       = '成功：添加奖励点!';
+$_['text_reward_remove']      = '删除奖励积分';
+$_['text_reward_removed']     = '成功：积分删除!';
+$_['text_commission_add']     = '加入委托';
+$_['text_commission_added']   = '成功: 添加委托!';
+$_['text_commission_remove']  = '删除委托';
+$_['text_commission_removed'] = '成功: 删除委托!';
+$_['text_credit_add']         = '新增信用卡';
+$_['text_credit_added']       = '成功: 新增信用卡!';
+$_['text_credit_remove']      = '删除信用卡';
+$_['text_credit_removed']     = '成功: 删除信用卡!';
+$_['text_upload']             = '您的文件上传成功!';
+
+// Column
+$_['column_order_id']         = '订单ID';
+$_['column_customer']         = '顾客';
+$_['column_status']           = '状态';
+$_['column_date_added']       = '添加日期';
+$_['column_date_modified']    = '修改日期';
+$_['column_total']            = '总计';
+$_['column_product']          = '产品';
+$_['column_model']            = '型号';
+$_['column_quantity']         = '数量';
+$_['column_price']            = '单价';
+$_['column_download']         = '下载名称';
+$_['column_filename']         = '文件名';
+$_['column_remaining']        = '剩余下载次数';
+$_['column_comment']          = '评论';
+$_['column_notify']           = '客户通知';
+$_['column_action']           = '操作';
+
+// Entry
+$_['entry_store']             = '存储:';
+$_['entry_customer']          = '顾客:';
+$_['entry_customer_group']    = '客户群:';
+$_['entry_firstname']         = '名字:';
+$_['entry_lastname']          = '姓氏:';
+$_['entry_email']             = '电子邮件:';
+$_['entry_telephone']         = '电话号码:';
+$_['entry_fax']               = '传真:';
+$_['entry_address']           = '选择地址:';
+$_['entry_company']           = '公司:';
+$_['entry_address_1']         = '地址 1:';
+$_['entry_address_2']         = '地址 2:';
+$_['entry_city']              = '城市:';
+$_['entry_postcode']          = '邮编:';
+$_['entry_country']           = '国家:';
+$_['entry_zone']              = '地区/国家:';
+$_['entry_zone_code']         = '地区/国家代码:';
+$_['entry_product']           = '选择产品:';
+$_['entry_option']            = '选择选项:';
+$_['entry_quantity']          = '数量:';
+$_['entry_affiliate']         = '分支机构:';
+$_['entry_order_status']      = '订单状态:';
+$_['entry_notify']            = '通知客户:';
+$_['entry_comment']           = '评论:';
+$_['entry_shipping']          = '配送方式:';
+$_['entry_payment']           = '付款方式:';
+
+// Error
+$_['error_permission']        = '警告：您没有权限修改订单!';
+$_['error_firstname']         = '名字必须是介于1和32个字符!';
+$_['error_lastname']          = '姓氏必须是介于1和32个字符!';
+$_['error_email']             = '电子邮件地址无效!';
+$_['error_telephone']         = '电话必须是3至32个字符!';
+$_['error_password']          = '密码必须是3至20个字符!';
+$_['error_confirm']           = '密码和确认密码不匹配!';
+$_['error_address_1']         = '地址1，必须是3至128个字符!';
+$_['error_city']              = '城市必须是3至128个字符!';
+$_['error_postcode']          = '邮编必须是2个和10个字符!';
+$_['error_country']           = '请选择一个国家!';
+$_['error_zone']              = '请选择一个地区/国家!';
+$_['error_upload']            = '上传要求!';
+$_['error_filename']          = '文件名必须是3至128个字符!';
+$_['error_filetype']          = '无效的文件类型!';
+$_['error_action']            = '警告：无法完成这个操作!';
+?>

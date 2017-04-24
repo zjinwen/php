@@ -1,0 +1,91 @@
+#wb_header { background: transparent none repeat scroll left top; height: 200px; }
+#wb_header { height: 200px; }
+#wb_main { background: transparent none repeat scroll left top; height: 760px; padding: 0 0 20px 0; }
+#wb_main { height: 780px; }
+#wb_footer { background: transparent none repeat-x scroll left top; height: 74px; }
+#wb_footer { height: 74px; }
+body { background: transparent url("../gallery_gen/0d95ef9871a57cdcc0b17125c70f7ca4.jpg") no-repeat scroll center top; }
+.wb_sbg { background: transparent none repeat-x scroll left top; }
+body, .wb_sbg { min-width: 992px; min-height: 1254px; }
+.root { width: 992px; height: 1254px; overflow: visible; }
+#wb_element_instance22 { left: 486px; top: 80px; min-width: 504px; width: 504px; min-height: 40px; height: 40px; display: block; z-index: 200; }
+#wb_element_instance22 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance22, #wb_element_instance22 ul { text-align: center; }
+#wb_element_instance22 ul ul { background: #ff0978 none repeat scroll right top; }
+#wb_element_instance22 li { margin: 0px 0px 0px 30px; }
+#wb_element_instance22 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 20px 10px 0px; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance22 li:hover > a, #wb_element_instance22 li:focus > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance22 li.active > a { border: 2px none #ba37ba; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #fff987; line-height: 16px; background: transparent none repeat scroll center center; }
+#wb_element_instance23 { left: 10px; top: 50px; min-width: 100px; width: 100px; min-height: 100px; height: 100px; display: block; z-index: 198; }
+#wb_element_instance23 img { width: 100px; height: 100px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance24 { left: 130px; top: 60px; min-width: 340px; width: 340px; min-height: 48px; height: 48px; display: block; z-index: 199; }
+#wb_element_instance25 { left: 0px; top: 37px; min-width: 260px; width: 260px; min-height: 24px; height: 24px; display: block; z-index: 200; }
+#wb_element_instance26 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 48px; height: 48px; display: block; z-index: 74; }
+#wb_element_instance27 { left: 0px; top: 80px; min-width: 990px; width: 990px; min-height: 68px; height: 68px; display: block; z-index: 72; }
+#wb_element_instance28 { left: 10px; top: 230px; min-width: 450px; width: 450px; min-height: 168px; height: 168px; display: block; z-index: 81; }
+#wb_element_instance29 { left: 490px; top: 230px; min-width: 490px; width: 490px; min-height: 200px; height: 200px; display: block; z-index: 79; }
+#wb_element_instance29 form .form-area-field { height: 86px; }
+#wb_element_instance29 form td { text-align: right; }
+#wb_element_instance29 form tr.area-row > th { height: 1%; }
+#wb_element_instance29 form tr.area-row > td { height: 1%; }
+#wb_element_instance29 form tr.form-footer > td { height: 20px; }
+#wb_element_instance30 { left: 10px; top: 470px; min-width: 970px; width: 970px; min-height: 290px; height: 290px; display: block; z-index: 82; }
+#wb_element_instance31 { left: 0px; top: 780px; display: block; z-index: 9000; }
+#wb_element_instance32 { left: 0px; top: 81px; display: block; z-index: 9999; }
+
+@media (min-width: 768px) {
+	#wb_header { height: 200px; }
+	#wb_main { height: 780px; }
+	#wb_footer { height: 74px; }
+	body, .wb_sbg { min-width: 992px; min-height: 1054px; }
+	.root { width: 992px; height: 1054px; overflow: visible; }
+	#wb_element_instance22 { left: 486px; top: 80px; min-width: 504px; width: 504px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance23 { left: 10px; top: 50px; min-width: 100px; width: 100px; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance23 img { width: 100px; height: 100px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance24 { left: 130px; top: 60px; min-width: 340px; width: 340px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance25 { left: 0px; top: 37px; min-width: 260px; width: 260px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance26 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance27 { left: 0px; top: 80px; min-width: 990px; width: 990px; min-height: 68px; height: 68px; display: block; }
+	#wb_element_instance28 { left: 10px; top: 230px; min-width: 450px; width: 450px; min-height: 168px; height: 168px; display: block; }
+	#wb_element_instance29 { left: 490px; top: 230px; min-width: 490px; width: 490px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance29 form .form-area-field { height: 86px; }
+	#wb_element_instance30 { left: 10px; top: 470px; min-width: 970px; width: 970px; min-height: 290px; height: 290px; display: block; }
+}
+
+@media (min-width: 992px) {
+	#wb_header { height: 200px; }
+	#wb_main { height: 780px; }
+	#wb_footer { height: 74px; }
+	body, .wb_sbg { min-width: 992px; min-height: 1054px; }
+	.root { width: 992px; height: 1054px; overflow: visible; }
+	#wb_element_instance22 { left: 486px; top: 80px; min-width: 504px; width: 504px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance23 { left: 10px; top: 50px; min-width: 100px; width: 100px; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance23 img { width: 100px; height: 100px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance24 { left: 130px; top: 60px; min-width: 340px; width: 340px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance25 { left: 0px; top: 37px; min-width: 260px; width: 260px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance26 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance27 { left: 0px; top: 80px; min-width: 990px; width: 990px; min-height: 68px; height: 68px; display: block; }
+	#wb_element_instance28 { left: 10px; top: 230px; min-width: 450px; width: 450px; min-height: 168px; height: 168px; display: block; }
+	#wb_element_instance29 { left: 490px; top: 230px; min-width: 490px; width: 490px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance29 form .form-area-field { height: 86px; }
+	#wb_element_instance30 { left: 10px; top: 470px; min-width: 970px; width: 970px; min-height: 290px; height: 290px; display: block; }
+}
+
+@media (min-width: 1200px) {
+	#wb_header { height: 200px; }
+	#wb_main { height: 780px; }
+	#wb_footer { height: 74px; }
+	body, .wb_sbg { min-width: 992px; min-height: 1054px; }
+	.root { width: 992px; height: 1054px; overflow: visible; }
+	#wb_element_instance22 { left: 486px; top: 80px; min-width: 504px; width: 504px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance23 { left: 10px; top: 50px; min-width: 100px; width: 100px; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance23 img { width: 100px; height: 100px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance24 { left: 130px; top: 60px; min-width: 340px; width: 340px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance25 { left: 0px; top: 37px; min-width: 260px; width: 260px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance26 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 48px; height: 48px; display: block; }
+	#wb_element_instance27 { left: 0px; top: 80px; min-width: 990px; width: 990px; min-height: 68px; height: 68px; display: block; }
+	#wb_element_instance28 { left: 10px; top: 230px; min-width: 450px; width: 450px; min-height: 168px; height: 168px; display: block; }
+	#wb_element_instance29 { left: 490px; top: 230px; min-width: 490px; width: 490px; min-height: 200px; height: 200px; display: block; }
+	#wb_element_instance29 form .form-area-field { height: 86px; }
+	#wb_element_instance30 { left: 10px; top: 470px; min-width: 970px; width: 970px; min-height: 290px; height: 290px; display: block; }
+}

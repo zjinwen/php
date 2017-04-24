@@ -1,0 +1,359 @@
+# Translation of Kichu in Chinese (China)
+# This file is distributed under the same license as the Kichu package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-24 10:24:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Kichu\n"
+
+#. #-#-#-#-#  kichu.pot (Kichu 1.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/admin/welcome-screen/content/content.php:10
+msgid "Kichu is one column theme, which supports all the post formats. This design focuses on your content & is perfect for an elegant blog site. This theme allows you to customize colors, and is translation-ready."
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:57
+msgid "If you like this theme and if it helped you with your business then please consider supporting the development <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">by donating some money</a>. <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">Any amount, even $1.00, is appreciated :)</a>"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:23
+msgid "Thanks for choosing Kichu! You can read hints and tips on how get the most out of your new theme on the %swelcome screen%s."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:24
+msgid "Get started with Kichu"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "To edit footer credits, you need to purchase the $5 <a href=\"https://goo.gl/49tvxD\" target=\"_blank\">Footer Credits Extension</a>."
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Footer Credits"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:39
+msgid "Get the Footer Credits Extension"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:41
+msgid "Purchase ($5)"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:50
+msgid "Need support?"
+msgstr "需要支持吗?"
+
+#: inc/admin/welcome-screen/content/content.php:51
+msgid "Found an issue with the theme? You can get support <a href=\"https://wordpress.org/support/theme/kichu\" target=\"_blank\">at this link</a>. Or would you like to translate Kichu into your language? <a href=\"https://translate.wordpress.org/projects/wp-themes/kichu\" target=\"_blank\">Get involved</a>! Also, don't forget to <a href=\"https://wordpress.org/support/view/theme-reviews/kichu\" target=\"_blank\">leave a review</a>."
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:56
+msgid "Donate"
+msgstr "捐贈"
+
+#: inc/admin/welcome-screen/content/content.php:22
+msgid "What's new in %s?"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:23
+msgid "Take a look at everything that's new in the latest version:"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:25
+msgid "<strong>Customizer Improvements:</strong> Customizer now uses postMessage method so you don't need to wait for the refresh to see your changes."
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:26
+msgid "<strong>Welcome Panel:</strong> This version adds a Welcome Panel to the theme which tells you everything that you need to know about the theme."
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:33
+msgid "Footer Credits Extension"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:33
+msgid "Activated"
+msgstr "已启用"
+
+#: inc/admin/welcome-screen/content/content.php:34
+#: inc/admin/welcome-screen/content/content.php:40
+msgid "Kichu Footer Extension allows you to edit the footer credits of your Kichu theme straight from the Customizer, without touching a line of code."
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:35
+msgid "Customize"
+msgstr "定制"
+
+#: functions.php:96
+msgid "<span><a rel=\"nofollow\" href=\"http://www.hardeepasrani.com/portfolio/wordpress-themes/kichu/\"> Kichu </a> - Proudly powered by WordPress</span>"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:12
+msgid "Visit Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/content/content.php:13
+msgid "More Info"
+msgstr "更多信息"
+
+#: inc/customizer.php:19
+msgid "If you like this theme and if it helped you with your business then please consider supporting the development <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">by donating some money</a>. This theme is 100% free and will always be. <a target=\"_blank\" href=\"http://www.hardeepasrani.com/donate/\">Any amount, even $1.00, is appreciated :)</a>"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Do You Like This Theme?"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Links Hover"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Text/Link"
+msgstr ""
+
+#: search.php:9
+msgid "Search results for:"
+msgstr ""
+
+#: inc/customizer.php:241 inc/customizer.php:311 inc/customizer.php:395
+msgid "Link Hover"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid " Background"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Links"
+msgstr "链接"
+
+#: inc/customizer.php:227 inc/customizer.php:297
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer.php:213 inc/customizer.php:283
+msgid "Text"
+msgstr "文本"
+
+#: inc/customizer.php:101
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Menu Title"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Menu Title Background"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Menu Background"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Menu Links"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Menu Links Hover"
+msgstr ""
+
+#: inc/customizer.php:185 inc/customizer.php:325 inc/customizer.php:367
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer.php:87 inc/customizer.php:199 inc/customizer.php:269
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer.php:52
+msgid "Primary Section"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Secondary Section"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Footer"
+msgstr "底部"
+
+#: inc/customizer.php:36
+msgid "This section allows you to customize colors and feel of the theme."
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Header"
+msgstr "顶部"
+
+#: inc/customizer.php:35
+msgid "Colors"
+msgstr "颜色"
+
+#: header.php:13
+msgid "Menu"
+msgstr "菜单"
+
+#: functions.php:105
+msgid "Home"
+msgstr "首页"
+
+#: content-none.php:8
+msgid "The page you were looking for doesn&rsquo;t exist. Sasquatch, on the other hand, just might."
+msgstr ""
+
+#: content-none.php:9
+msgid "But hey, you can always use our search form:"
+msgstr ""
+
+#: content-quote.php:10
+msgid "Quote published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-quote.php:30
+msgid "Quote published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-status.php:14
+msgid "Status published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-video.php:10
+msgid "Video published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-video.php:37
+msgid "Video published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content.php:10
+msgid "Published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content.php:33
+msgid "Published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#. #-#-#-#-#  kichu.pot (Kichu 1.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/welcome-screen/content/content.php:9
+msgid "Kichu"
+msgstr ""
+
+#: functions.php:43 header.php:17
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: content-audio.php:10
+msgid "Audio published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-audio.php:32
+msgid "Audio published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-chat.php:10
+msgid "Chat published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-chat.php:37
+msgid "Chat published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-gallery.php:10
+msgid "Gallery published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-gallery.php:32
+msgid "Gallery published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-image.php:10
+msgid "Image published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-image.php:32
+msgid "Image published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-link.php:10
+msgid "Link published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-link.php:32
+msgid "Link published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time> | <a href=\"%4$s\">Permalink</a>"
+msgstr ""
+
+#: content-none.php:5
+msgid "Nothing found"
+msgstr "未找到"
+
+#: content-aside.php:20 content-audio.php:20 content-chat.php:21
+#: content-gallery.php:20 content-image.php:20 content-link.php:20
+#: content-quote.php:20 content-status.php:16 content-video.php:20
+#: content.php:25
+msgid "Tags: "
+msgstr "标签："
+
+#: content-aside.php:19 content-audio.php:19 content-chat.php:20
+#: content-gallery.php:19 content-image.php:19 content-link.php:19
+#: content-quote.php:19 content-status.php:15 content-video.php:19
+#: content.php:24
+msgid "Categories:"
+msgstr "分类目录："
+
+#: content-aside.php:10
+msgid "Aside published by <a href=\"%2$s\">%1$s</a> on <time>%3$s</time>"
+msgstr ""
+
+#: content-aside.php:18 content-audio.php:18 content-chat.php:19
+#: content-gallery.php:18 content-image.php:18 content-link.php:18
+#: content-page.php:12 content-quote.php:18 content-status.php:13
+#: content-video.php:18 content.php:23
+msgid "Pages:"
+msgstr "页面："
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:41
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:20
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%s个想法"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.hardeepasrani.com/portfolio/wordpress-themes/kichu/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hardeep Asrani"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.hardeepasrani.com"
+msgstr ""
