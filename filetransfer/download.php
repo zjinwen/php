@@ -60,7 +60,7 @@ namespace unit\lrs;
         <div class="col-lg-12">
             <h4>下载</h4>
             <p>
-                <a href ="https://pan.baidu.com/s/1bpMTjwr">Android</a>  <br/>
+                <a href ="http://pan.baidu.com/s/1i4996sP">Android</a>  <br/>
             </p>
 
         </div>
